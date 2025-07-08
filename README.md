@@ -14,7 +14,7 @@ A first-person shooter prototype built with Unity—featuring core FPS mechanics
 - Minimap
 
 ## Demo:
-https://github.com/user-attachments/assets/fe7cf92d-a65a-4a12-961c-9d8721c329ad
+https://github.com/user-attachments/assets/cf350fdf-e4a2-4280-9a25-8a168d1ccc14
 
 ## Playable Link:
 https://staginglocal.redappletech.com/playzhub/development/FirstPersonShootingGame/
