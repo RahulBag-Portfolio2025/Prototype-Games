@@ -1,10 +1,10 @@
 # 1. First Person Shooting game
-A first-person shooter prototype built with Unity—featuring core FPS mechanics, responsive controls, and engaging gunplay experimentation.
-
+A first-person shooter prototype built with Unity and deployed via WebGL—featuring core FPS mechanics, responsive controls, and gunplay experimentation, all playable in your browser.
 ## Skills: 
 - AI bot integration
 - IK Animation
 - Local Leaderboard System
+- WebGL deployment
 
 ## Key features:
 - Integrated AI bots system
